@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <h1> <img src="assets/images/waving-hand-joypixels.gif" height="30px">Hello, I am <a href="https://github.com/johnatacarvalho">John</a> <img height="30px" src="assets/images/dog-laptop.gif"></h1>
 </h1>
 
@@ -14,8 +8,39 @@ td, th {
 
 <h2 align="center">⚡️ About me</h3>
 
-| <ul align="left"><li>🔭 I’m currently reactivating this profile</li><li>🏦 I'm a Backend Engineering and life long learner</li><li>⚽ Fun fact: I was always the nerd who liked to play soccer</li><li>🔥 I'm interested in: <ul><li>Programing Languages</li><li>IA</li><li>Linux Distros</li><li>Kubernets</li><li>DevSecOps</li><li>R&D</li><li>Frontend Improvement</li><li>Reading</li><li>Writing</li><li>Music</li><li>Games</li></ul></li></ul>      | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true)|
-| ----------- | ----------- |
+<table>
+    <thead>
+    <tr>
+        <th>
+            <ul align="left" dir="auto">
+                <li>🔭 I’m currently reactivating this profile</li>
+                <li>🏦 I'm a Backend Engineering and life long learner</li>
+                <li>⚽ Fun fact: I was always the nerd who liked to play soccer</li>
+                <li>🔥 I'm interested in: 
+                    <ul dir="auto">
+                        <li>Programing Languages</li>
+                        <li>IA</li>
+                        <li>Linux Distros</li>
+                        <li>Kubernets</li>
+                        <li>DevSecOps</li>
+                        <li>R&D</li>
+                        <li>Frontend Improvement</li>
+                        <li>Reading</li>
+                        <li>Writing</li>
+                        <li>Music</li>
+                        <li>Games</li>
+                    </ul>
+                </li>
+            </ul>
+        </th>
+        <th>
+            <a href="https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=false">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify-github-profile">
+            </a>
+        </th>
+    </tr>
+    </thead>
+</table>
 
 <h2 align="center">💻 Tech I work on</h3>
 
