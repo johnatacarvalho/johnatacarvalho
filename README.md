@@ -6,28 +6,12 @@
 <a href="https://twitter.com/eujohncarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eujohncarvalho" height="30" width="30" /></a>&nbsp;
 </p>
 
-## ⚡️ About me
+<h2 align="center">⚡️ About me</h3>
 
-- 🔭 I’m currently reactivating this profile
-- 🏦 I'm a Backend Engineering and life long learner
-- ⚽ Fun fact: I was always the nerd who liked to play soccer
-- 🔥 I'm interested in:
-    - Programing Languages
-    - IA
-    - Linux Distros
-    - Kubernets
-    - DevSecOps
-    - R&D
-    - Reading
-    - Writing
-    - Music
-    - Games
+| <ul><li>🔭 I’m currently reactivating this profile</li><li>🏦 I'm a Backend Engineering and life long learner</li><li>⚽ Fun fact: I was always the nerd who liked to play soccer</li><li>🔥 I'm interested in: <ul><li>Programing Languages</li><li>IA</li><li>Linux Distros</li><li>Kubernets</li><li>DevSecOps</li><li>R&D</li><li>Frontend Improvement</li><li>Reading</li><li>Writing</li><li>Music</li><li>Games</li></ul></li></ul>      | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true)|
+| ----------- | ----------- |
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true) -->
-
-<a  align=right href="https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=false" target="_blank"> <img align=right src="https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="spotify-github-profile"/> </a>
-
-## 💻 Tech I work on
+<h2 align="center">💻 Tech I work on</h3>
 
 <p align="center">
       <a href="https://www.java.com"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/></a>
