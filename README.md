@@ -8,7 +8,7 @@
 
 <h2 align="center">⚡️ About me</h3>
 
-| <ul><li>🔭 I’m currently reactivating this profile</li><li>🏦 I'm a Backend Engineering and life long learner</li><li>⚽ Fun fact: I was always the nerd who liked to play soccer</li><li>🔥 I'm interested in: <ul><li>Programing Languages</li><li>IA</li><li>Linux Distros</li><li>Kubernets</li><li>DevSecOps</li><li>R&D</li><li>Frontend Improvement</li><li>Reading</li><li>Writing</li><li>Music</li><li>Games</li></ul></li></ul>      | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true)|
+| <ul align="left"><li>🔭 I’m currently reactivating this profile</li><li>🏦 I'm a Backend Engineering and life long learner</li><li>⚽ Fun fact: I was always the nerd who liked to play soccer</li><li>🔥 I'm interested in: <ul><li>Programing Languages</li><li>IA</li><li>Linux Distros</li><li>Kubernets</li><li>DevSecOps</li><li>R&D</li><li>Frontend Improvement</li><li>Reading</li><li>Writing</li><li>Music</li><li>Games</li></ul></li></ul>      | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true)|
 | ----------- | ----------- |
 
 <h2 align="center">💻 Tech I work on</h3>
