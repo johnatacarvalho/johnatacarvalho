@@ -11,6 +11,17 @@
 - 🔭 I’m currently reactivating this profile
 - 🏦 I'm a Backend Engineering and life long learner
 - ⚽ Fun fact: I was always the nerd who liked to play soccer
+- 🔥 I'm interested in:
+    - Programing Languages
+    - IA
+    - Linux Distros
+    - Kubernets
+    - DevSecOps
+    - R&D
+    - Reading
+    - Writing
+    - Music
+    - Games
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true) -->
 
