@@ -9,6 +9,8 @@
 ## ⚡️ About me
 
 - 🔭 I’m currently reactivating this profile
+- 🏦 I'm a Backend Engineering and life long learner
+- ⚽ Fun fact: I was always the nerd who liked to play soccer
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnata&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=johnata&redirect=true) -->
 
@@ -28,3 +30,5 @@
       <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></a>
       <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="45"/></a>
 </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
