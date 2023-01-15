@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1> <img src="assets/images/waving-hand-joypixels.gif" height="30px">Hello, I am <a href="https://github.com/johnatacarvalho">John</a> <img height="30px" src="assets/images/dog-laptop.gif"></h1>
 </h1>
 
