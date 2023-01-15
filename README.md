@@ -8,8 +8,7 @@
 
 <h2 align="center">⚡️ About me</h3>
 
-<table>
-    <thead>
+<table border=0px>
     <tr>
         <th>
             <ul align="left" dir="auto">
@@ -39,7 +38,6 @@
             </a>
         </th>
     </tr>
-    </thead>
 </table>
 
 <h2 align="center">💻 Tech I work on</h3>
@@ -57,4 +55,8 @@
       <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="45"/></a>
 </p>
 
+<table align="center">
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</table>
